@@ -1,0 +1,18 @@
+.navbar-brand {
+    padding-top: 8px;
+    }
+body {
+    background-color: transparent;
+    }
+
+.executive-summary {
+    max-width: 900px;
+}
+.ex {
+    padding-right: 10em;
+    padding-left: 0em;
+}
+
+.text-success {
+    color: green;
+}
